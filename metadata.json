@@ -1,0 +1,8 @@
+{
+  "name": "SAFA FLORATECH - Sustainable Infrastructure",
+  "description": "Enterprise-level platform for solar energy systems, fencing solutions, plant supply, and landscaping services with a built-in CRM workflow simulation.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
